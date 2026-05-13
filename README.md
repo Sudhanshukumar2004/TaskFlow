@@ -1,6 +1,7 @@
-# Productivity Tracker - Productivity & Time Analysis Platform
+# # TaskFlow - Productivity & Time Analysis Platform
 
-**Productivity Tracker** is a sophisticated productivity and time analysis application engineered to transform how users track tasks, manage complexity, and visualize their efficiency. Built with a modern, responsive **MERN stack** architecture, it combines intuitive design with powerful analytics to provide actionable insights into personal and professional time management.
+TaskFlow is a modern productivity and time analysis platform built with the MERN stack. It helps users manage tasks, track productivity, and analyze daily workflow efficiently. The platform provides smart task organization, progress tracking, and insightful analytics through a clean and responsive interface. Designed for both personal and professional use, TaskFlow simplifies time management and improves overall productivity.
+
 
 ## 🚀 Key Features
 
